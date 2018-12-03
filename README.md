@@ -1,2 +1,2 @@
 # Nimble-Streamer
-Example python 3 code for nimble streamer
+Python 3 code snippet for WMSAuth Paywall feature set
